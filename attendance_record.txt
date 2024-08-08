@@ -1,0 +1,16 @@
+Name: Bob
+RollNo: 101
+Status: Absent
+
+Name: Alice
+RollNo: 102
+Status: Absent
+
+Name: Chef
+RollNo: 110
+Status: Absent
+
+Name: Chefina
+RollNo: 112
+Status: Absent
+
